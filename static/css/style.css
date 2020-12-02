@@ -1,0 +1,12 @@
+ html{
+    font-family: "Roboto";
+    font-size: 16px;
+ }
+
+ body {
+     background-image: url(https://i.imgur.com/ZzHwusw.png);
+     background-size: 100%;
+     max-width: 1000px;
+     margin: 0 auto;
+     padding: 20px;
+ }
