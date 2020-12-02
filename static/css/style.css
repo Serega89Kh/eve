@@ -4,9 +4,27 @@
  }
 
  body {
-     background-image: url(https://i.imgur.com/ZzHwusw.png);
-     background-size: 100%;
-     max-width: 1000px;
-     margin: 0 auto;
-     padding: 20px;
+    background-size: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+ }
+  .work_guest {
+    padding: 0px 215px;
+    max-width: 650px;
+	text-align: center
+ }
+ .btn{
+    background-color: white;
+    width: 125px;
+    height: 20px;
+    border-radius: 5px;
+    border-color: black;
+    margin: 1%
+ }
+ .Planned_list{
+    list-style-type: none;
+ }
+
+ .Inprogress_list{
+    list-style-type: none;
  }
